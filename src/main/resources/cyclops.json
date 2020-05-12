@@ -1,0 +1,12 @@
+{
+  "npcType": "MONSTER",
+  "race": "Cyclops",
+  "characterClass": "Warrior",
+  "level": 7,
+  "strength": 19,
+  "dexterity": 14,
+  "constitution": 18,
+  "intelligence": 8,
+  "wisdom": 10,
+  "charisma": 7
+}
